@@ -50,26 +50,41 @@ tmp/
 temp/
 
 # Generated files
-ops-aws-strong-ocean/build/
-ops-aws-strong-ocean/dist/
-ops-aws-strong-ocean/target/
-ops-aws-strong-ocean/.env*
-ops-aws-strong-ocean/node_modules/
 backend-java-gentle-mountain/build/
 backend-java-gentle-mountain/dist/
 backend-java-gentle-mountain/target/
 backend-java-gentle-mountain/.env*
 backend-java-gentle-mountain/node_modules/
+backend-java-pure-desert/build/
+backend-java-pure-desert/dist/
+backend-java-pure-desert/target/
+backend-java-pure-desert/.env*
+backend-java-pure-desert/node_modules/
 client-react-bright-canyon/build/
 client-react-bright-canyon/dist/
 client-react-bright-canyon/target/
 client-react-bright-canyon/.env*
 client-react-bright-canyon/node_modules/
+client-react-true-sunset/build/
+client-react-true-sunset/dist/
+client-react-true-sunset/target/
+client-react-true-sunset/.env*
+client-react-true-sunset/node_modules/
 docs-readme-calm-twilight/build/
 docs-readme-calm-twilight/dist/
 docs-readme-calm-twilight/target/
 docs-readme-calm-twilight/.env*
 docs-readme-calm-twilight/node_modules/
+ops-aws-strong-ocean/build/
+ops-aws-strong-ocean/dist/
+ops-aws-strong-ocean/target/
+ops-aws-strong-ocean/.env*
+ops-aws-strong-ocean/node_modules/
+ops-aws-swift-breeze/build/
+ops-aws-swift-breeze/dist/
+ops-aws-swift-breeze/target/
+ops-aws-swift-breeze/.env*
+ops-aws-swift-breeze/node_modules/
 
 # Cloud and deployment
 .terraform/
