@@ -14,6 +14,54 @@ Generated project using Genesis modular architecture
 
 This project consists of the following modules:
 
+### gentle-mountain (code/backend/java)
+- **Type**: code-backend-java
+- **Region**: us-west-1
+- **Status**: Enabled
+- **Branch**: 
+
+
+**Configuration** (dev):
+- k1: v1
+**Configuration** (dev):
+- k2: v2
+
+### pure-desert (code/backend/java)
+- **Type**: code-backend-java
+- **Region**: us-west-1
+- **Status**: Enabled
+- **Branch**: 
+
+
+
+### bright-canyon (code/client/react)
+- **Type**: code-client-react
+- **Region**: us-west-1
+- **Status**: Enabled
+- **Branch**: 
+
+
+**Configuration** (dev):
+- kk1: vv1
+**Configuration** (dev):
+- kk2: [HIDDEN]
+
+### true-sunset (code/client/react)
+- **Type**: code-client-react
+- **Region**: us-west-1
+- **Status**: Enabled
+- **Branch**: 
+
+
+
+### calm-twilight (code/docs/readme)
+- **Type**: code-docs-readme
+- **Region**: us-west-1
+- **Status**: Enabled
+- **Branch**: 
+
+
+
 ### strong-ocean (code/ops/aws)
 - **Type**: code-ops-aws
 - **Region**: us-west-1
@@ -28,32 +76,8 @@ This project consists of the following modules:
 **Configuration** (dev):
 - k3: v3
 
-### gentle-mountain (code/backend/java)
-- **Type**: code-backend-java
-- **Region**: us-west-1
-- **Status**: Enabled
-- **Branch**: 
-
-
-**Configuration** (dev):
-- k1: v1
-**Configuration** (dev):
-- k2: v2
-
-### bright-canyon (code/client/react)
-- **Type**: code-client-react
-- **Region**: us-west-1
-- **Status**: Enabled
-- **Branch**: 
-
-
-**Configuration** (dev):
-- kk1: vv1
-**Configuration** (dev):
-- kk2: [HIDDEN]
-
-### calm-twilight (code/docs/readme)
-- **Type**: code-docs-readme
+### swift-breeze (code/ops/aws)
+- **Type**: code-ops-aws
 - **Region**: us-west-1
 - **Status**: Enabled
 - **Branch**: 
@@ -69,10 +93,13 @@ Each module is organized in its own directory with independent build systems:
 kind-meadow/
 ├── README.md           # This file
 ├── .gitignore         # Git ignore rules
-├── ops-aws-strong-ocean/            # strong-ocean module
 ├── backend-java-gentle-mountain/            # gentle-mountain module
+├── backend-java-pure-desert/            # pure-desert module
 ├── client-react-bright-canyon/            # bright-canyon module
+├── client-react-true-sunset/            # true-sunset module
 ├── docs-readme-calm-twilight/            # calm-twilight module
+├── ops-aws-strong-ocean/            # strong-ocean module
+├── ops-aws-swift-breeze/            # swift-breeze module
 ```
 
 ## Getting Started
