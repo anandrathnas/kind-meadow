@@ -9,21 +9,21 @@
   "tld": "com",
   "owner": "anandrathnas",
   "repo": "kind-meadow",
-  "generatedAt": "2025-08-31T08:52:49.861Z",
+  "generatedAt": "2025-08-31T23:50:00.885Z",
   "generatedBy": "genesis2-api",
   "modules": [
     {
       "kind": "code",
-      "layer": "ops",
-      "type": "aws",
-      "name": "strong-ocean",
+      "layer": "backend",
+      "type": "java",
+      "name": "gentle-mountain",
       "region": "us-west-1"
     },
     {
       "kind": "code",
       "layer": "backend",
       "type": "java",
-      "name": "gentle-mountain",
+      "name": "pure-desert",
       "region": "us-west-1"
     },
     {
@@ -35,9 +35,30 @@
     },
     {
       "kind": "code",
+      "layer": "client",
+      "type": "react",
+      "name": "true-sunset",
+      "region": "us-west-1"
+    },
+    {
+      "kind": "code",
       "layer": "docs",
       "type": "readme",
       "name": "calm-twilight",
+      "region": "us-west-1"
+    },
+    {
+      "kind": "code",
+      "layer": "ops",
+      "type": "aws",
+      "name": "strong-ocean",
+      "region": "us-west-1"
+    },
+    {
+      "kind": "code",
+      "layer": "ops",
+      "type": "aws",
+      "name": "swift-breeze",
       "region": "us-west-1"
     }
   ],
